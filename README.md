@@ -12,7 +12,7 @@
 ### Prerequisites
 
 - [DJango](https://docs.djangoproject.com/en/3.0/) - The web framework used
-- [Python 3.0 +]
+- [Python 3.0 +](https://www.python.org/downloads/)
 - [shape_predictor_68_face_landmarks.dat] - Dataset
 
 
