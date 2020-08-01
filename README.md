@@ -13,7 +13,10 @@
 
 - [DJango](https://docs.djangoproject.com/en/3.0/) - The web framework used
 - [Python 3.0 +](https://www.python.org/downloads/)
+- [OpenCV](https://opencv.org/) - Library, aimed for real-time Computer Vision.
+- [imutils](https://pypi.org/project/imutils/) - For basic Image Processing Tasks
 - [shape_predictor_68_face_landmarks.dat] - Dataset
+
 
 
 ## Authors
