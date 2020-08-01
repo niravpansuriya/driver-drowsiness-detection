@@ -18,7 +18,9 @@
 
 ## Authors
 
+* **Our team name is 'Black Bulls'**
 * **Nirav C. Pansuriya** 
 * **Brij S. Patel** 
-* **Anij H. Patel** 
+* **Anuj H. Patel** 
 * **Smit Y. Parmar** 
+
