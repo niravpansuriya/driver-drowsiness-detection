@@ -20,7 +20,7 @@
 
 ### Demo
 
-- Watch "demo.flv"("./demo.flv") file for 
+- Watch demo.flv(https://github.com/niravpansuriya/driver-drowsiness-detection/blob/master/demo.flv) file for Demo.
 
 
 
