@@ -1,12 +1,12 @@
 # Driver Drowsiness Detection
 
-- This system alerts the driver when driver found in drowsiness condition while driving.
+- This system alerts the driver when the driver found in drowsiness condition while driving.
 - We have used Computer Vision to archive the task.
-- Facial Landmarks dataset is used for detect different features of face.
-- System plays alert sound when found the driver in drowsiness condition.
-- System stores real time data in JSON format and show graphical visulization of data.
-- This is just prototype.
-- We have developed a hardware solution with the help of NVidia Jatson Nano Board.
+- Facial Landmarks dataset is used to detect different features of the face.
+- The system plays an alert sound when found the driver in drowsiness condition.
+- The system stores real-time data in JSON file and show visulization of data to the driver.
+- This is just a prototype.
+- We have developed a hardware solution with the help of NVidia Jetson Nano Board.
 
 
 ### Prerequisites
