@@ -6,12 +6,12 @@
 - System plays alert sound when found the driver in drowsiness condition.
 - System stores real time data in JSON format and show graphical visulization of data.
 - This is just prototype.
-- We have developed a hardware solution with the help of NVida Jatson Nano Board.
+- We have developed a hardware solution with the help of NVidia Jatson Nano Board.
 
 
 ### Prerequisites
 
-- [DJango](https://docs.djangoproject.com/en/3.0/) - The web framework used
+- [DJango](https://docs.djangoproject.com/en/3.0/) - The web framework
 - [Python 3.0 +](https://www.python.org/downloads/)
 - [OpenCV](https://opencv.org/) - Library, aimed for real-time Computer Vision.
 - [imutils](https://pypi.org/project/imutils/) - For basic Image Processing Tasks
